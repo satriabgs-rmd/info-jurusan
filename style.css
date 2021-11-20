@@ -297,7 +297,8 @@ footer h6 {
 }
 
 footer .kontener {
-    padding-left: 20px;
+    padding: 0 20px;
+
 }
 
 .kiriri h6, .tetengah h6, .kananan h6 {
