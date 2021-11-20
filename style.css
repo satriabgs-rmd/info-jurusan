@@ -248,7 +248,7 @@
     padding: 10px;
     display: flex;
     margin: 20px auto;
-    overflow-y: scroll;
+    overflow: scroll;
 }
 
 .content {
