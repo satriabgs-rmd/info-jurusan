@@ -467,7 +467,7 @@ footer .kopikanan {
     }
 
     .konten {
-        margin-top: 50px;
+        margin-top: 30px;
     }
 
     .isi {
@@ -501,5 +501,11 @@ footer .kopikanan {
 
     .tombol a p {
         font-size: 12px;
+    }
+}
+
+@media (max-width: 350px) {
+    .konten {
+        margin-top: 80px;
     }
 }
