@@ -485,4 +485,21 @@ footer .kopikanan {
     .content {
         height: 350px;
     }
+    
+    .coba {
+        width: 80px;
+        height: 80px;
+    }
+
+    .tombol a .gambar {
+        width: 30px;
+    }
+
+    .kopikanan {
+        font-size: 13px;
+    }
+
+    .tombol a p {
+        font-size: 12px;
+    }
 }
