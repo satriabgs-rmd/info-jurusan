@@ -503,9 +503,3 @@ footer .kopikanan {
         font-size: 12px;
     }
 }
-
-@media (max-width: 330px) {
-    .konten {
-        margin-top: 100px;
-    }
-}
