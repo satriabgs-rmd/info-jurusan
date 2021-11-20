@@ -474,11 +474,9 @@ footer .kopikanan {
         height: 95vh;
     }
 
-    .slider {
-        height: 150px;
-    }
-
     .slider img {
+        width:auto;
+        height: 150px;
         margin-top: -20px;
     }
 
