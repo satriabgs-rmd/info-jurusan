@@ -85,7 +85,7 @@
     max-width: 80%;
     height: 300px;
     margin: -100px auto;
-    background-color: #ccc;
+    background-color: rgb(237, 237, 237);
     text-align: center;
     border-radius: 5px;
 }
@@ -119,6 +119,18 @@
 .container .gambar {
     width: 40px;
     margin-top: 12px;
+}
+
+.coba {
+    border: 2px solid rgb(133, 133, 133);
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.coba:hover {
+    background-color: rgb(181, 181, 181);
 }
 
 
