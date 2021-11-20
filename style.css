@@ -245,6 +245,7 @@
 
 .slider {
     min-width: 350px;
+    border: 1px solid black;
     padding: 10px;
     display: flex;
     margin: 20px auto;
