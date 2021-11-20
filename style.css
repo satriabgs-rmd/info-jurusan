@@ -452,4 +452,12 @@ footer .kopikanan {
     .slideButton {
         height: 45vh;
     }
+
+    .konten {
+        margin-top: 10px;
+    }
+
+    .content {
+        height: 300px;
+    }
 }
